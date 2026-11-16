@@ -1,11 +1,11 @@
 ---
-title: "Just Talking"
+title: "Assignments are my life now ?"
 description: 'Talking about things that intrigue me'
 pubDate: 'Nov 16 2026'
 heroImage: '../../assets/assignments.jpg'
 ---
 
-# Assignments are my life now ?
+
 Nov 16 · 20:58 p.m.
 
 So I just opened up my blackboard today and what scared me was not my marks but the no. of assignments I have due from today till 27th Nov. Bombarding students with assignments, oh yeah why not? Might as well just offer them a full time job on it. Do you honestly think that students can do all of that without the help of AI? 

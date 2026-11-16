@@ -5,7 +5,6 @@ pubDate: 'Nov 16 2026'
 heroImage: '../../assets/blog2.avif'
 ---
 
-# Show Up: an app idea to get students off their phones and into the same room
 
 Nov 16, 2026 · 12:53 a.m.
 
