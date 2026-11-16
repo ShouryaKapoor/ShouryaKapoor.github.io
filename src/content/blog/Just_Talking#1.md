@@ -2,7 +2,7 @@
 title: "Just Talking"
 description: 'Talking about things that intrigue me'
 pubDate: 'Nov 16 2026'
-heroImage: '../../assets/Just Talking.png'
+heroImage: '../../assets/assignments.jpg'
 ---
 
 # Assignments are my life now ?
