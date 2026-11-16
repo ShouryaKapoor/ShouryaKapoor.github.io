@@ -1,8 +1,8 @@
 ---
-title: "Show Up? A new idea?"
-description: ' An app idea to get students off their phones and into the same room'
-pubDate: 'Nov 16 2026'
-heroImage: '../../assets/blog2.avif'
+title : "Show Up? A new idea?"
+description : ' An app idea to get students off their phones and into the same room'
+pubDate : 'Nov 16 2026'
+heroImage : '../../assets/blog2.avif'
 ---
 
 # Show Up: an app idea to get students off their phones and into the same room

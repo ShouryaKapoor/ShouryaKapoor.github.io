@@ -1,5 +1,5 @@
 ---
-title : "Just Talking"
+title: "Just Talking"
 description: 'Talking about random things that intrigued me today'
 pubDate: 'Nov 16 2026'
 heroImage: '../../assets/blog-placeholder-2'
