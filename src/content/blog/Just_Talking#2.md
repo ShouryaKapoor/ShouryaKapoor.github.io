@@ -1,8 +1,8 @@
 ---
-title: "Winter is here and the king in the north is too lazy to wake up"
+title: "Winter is here"
 description: 'Talking about things that intrigue me'
 pubDate: 'Nov 18 2026'
-heroImage: '../../assets/assignments.jpg'
+heroImage: '../../assets/winter.jpg'
 ---
 Nov 18, 2026 · 16:59 p.m.
 
